@@ -1,4 +1,4 @@
-# labpy03-1
+# labpy03
 
 ## Biodata
 ### Nama : Sovy Aprianti
